@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Joaquin 👋
 
-<!--
-**Joaco273/joaco273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Drexel University (GPA 3.94) — building ML systems, 
+full-stack apps, and AI-powered tools.
 
-Here are some ideas to get you started:
+Currently targeting **Spring/Summer 2027 co-ops** in software engineering, ML engineering, AI engineer, or computer science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- 🏠 **ValueIQ** — ML home valuation + RAG + LLM negotiation strategy
+- 📚 Sharpening DSA through LeetCode (NeetCode 150)
+
+## Tech I use
+`Python` `Java` `JavaScript` `React` `FastAPI` `scikit-learn` `FAISS` `SQL` `Git`
+
+## Connect
+- 🌐 [joaquindescotte.com](https://joaquindescotte.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaquin-descotte-069783213/)
+- 📧 jud25@drexel.edu
