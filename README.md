@@ -5,7 +5,7 @@ CS student at Drexel University (GPA 3.94) building ML systems, full-stack apps,
 Currently targeting **Spring/Summer 2027 co-ops** in software engineering, ML engineering, AI engineer, or computer science. 
 
 ## What I'm working on
-- 🏠 **ValueIQ** — ML home valuation + RAG + LLM negotiation strategy
+- 🏠 **ValueIQ**: ML home valuation + RAG + LLM negotiation strategy
 - 📚 Sharpening DSA through LeetCode (NeetCode 150)
 
 ## Tech I use
