@@ -1,7 +1,6 @@
 # Hey, I'm Joaquin 👋
 
-CS student at Drexel University (GPA 3.94) — building ML systems, 
-full-stack apps, and AI-powered tools.
+CS student at Drexel University (GPA 3.94) building ML systems, full-stack apps, and AI-powered tools.
 
 Currently targeting **Spring/Summer 2027 co-ops** in software engineering, ML engineering, AI engineer, or computer science. 
 
