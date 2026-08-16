@@ -11,6 +11,11 @@ Currently targeting **Spring/Summer 2027 co-ops** in software engineering, ML en
 ## Tech I use
 `Python` `Java` `JavaScript` `React` `FastAPI` `scikit-learn` `FAISS` `SQL` `Git`
 
+## Fun Facts
+- I am originally from Argentina
+- I enjoy watching sports, particularly soccer (more like footbal), american football, tennis and F1
+- I have never broken a bone (knock on wood)
+
 ## Connect
 - 🌐 [joaquindescotte.com](https://joaquindescotte.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaquin-descotte-069783213/)
